@@ -1,2 +1,2 @@
 # iOneApp
-Initial Implementation of our seller app.
+Initial Implementation of our customer app.
